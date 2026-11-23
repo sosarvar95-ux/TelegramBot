@@ -1,0 +1,27 @@
+BotFather sozlamalari (har birini @BotFather ga yuboring, so'ng botni tanlab matnni kiriting)
+=============================================================================================
+
+/setuserpic
+  -> bot_avatar.png faylini yuboring
+
+/setname
+  Poyezd Bilet Kuzatuvchi
+
+/setabouttext   (profil tepasidagi qisqa matn, 120 belgigacha)
+  🚆 Poyezd biletlari paydo bo'lishi bilan birinchi bo'lib xabar beraman 🎟
+
+/setdescription   (botni ochishdan oldingi "Bu bot nima qila oladi?" matni)
+  🚆 Bilet tugab qoldimi? Saytni men kuzataman!
+
+  ✅ Yo'nalish, sana va joy turini tanlaysiz (o'tirib ketadigan, pastki, tepa, yon)
+  🎟 Nechta bilet kerakligini va eng ko'p narxni aytasiz
+  🔔 Bilet topilishi bilan zudlik bilan xabar beraman
+
+  Bot yopiq: foydalanish uchun admin tasdig'i kerak.
+
+/setcommands
+  start - Boshlash
+  help - Yordam
+
+/setprivacy
+  (kerak emas, bot faqat shaxsiy chatda ishlaydi)
